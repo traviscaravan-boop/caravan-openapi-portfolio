@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "caravan-openapi-portfolio",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "openapi-caravancreates",
+			"database_id": "a00dbe7c-bad5-481b-81f5-f78d1cdd5e36"
+		}
+	]
+}
